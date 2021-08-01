@@ -252,11 +252,10 @@ def logo():
 	os.system("clear")
 	print(c+"     ["+i+"-"+k+"+"+p+" WELCOME TO DMBF"+k+" +"+i+"-"+c+"]")
 	print(b+"""   _____              _       __ ©
-  |  __ \            | |     / _|
-  | |  | | _ __ ___  | |__  | |_ 
-  | |  | || '_ ` _ \ | '_ \ |  _|
-  | |__| || | | | | || |_) || |  
-  |_____/ |_| |_| |_||_.__/ |_|  Version 5.0.1""");time.sleep(0.5)
+  RPS
+  RPS
+  RAWANI
+    Version 5.0.1""");time.sleep(0.5)
 	print(c+" _____[ "+p+"Author : "+i+"Mr.RPs "+c+"]_______");time.sleep(0.3)
 	print(c+"["+p+" FACEBOOK : "+i+"fb.me/Haji FaRshad      "+c+"]");time.sleep(0.3)
 	print(c+"["+p+" WHATSAPP : "+i+"93793188357       "+c+"]");time.sleep(0.3)
